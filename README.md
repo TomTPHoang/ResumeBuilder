@@ -1,0 +1,4 @@
+The Resume Builder is a Java application designed to make resume creation easier and more efficient. By allowing users to enter their information into clearly defined fields, the application helps create a professional-looking resume without the hassle of formatting. This project provides a reliable, structured approach for users aiming to make a strong impression with well-organized resumes, suitable for job and internship applications.
+
+Features
+This Resume Builder offers an intuitive, straightforward interface where users can fill out sections for personal information, professional experience, education, and skills. The application formats the resume automatically, ensuring a clean, professional look. As users input their details, they can see a real-time preview of the final resume, making it easier to visualize and edit content. When complete, the resume can be exported as a PDF file, ready to be printed or shared digitally.
